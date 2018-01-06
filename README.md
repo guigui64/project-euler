@@ -1,2 +1,4 @@
 # project-euler
-Project Euler problems programs
+Solutions to the project Euler problems
+
+https://projecteuler.net/
